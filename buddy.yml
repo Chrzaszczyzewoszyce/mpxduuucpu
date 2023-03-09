@@ -1,0 +1,6 @@
+- pipeline: nofdmdxlim
+  events:
+  - type: PUSH
+    refs:
+    - refs/heads/master
+    - rcjjfbeirg
