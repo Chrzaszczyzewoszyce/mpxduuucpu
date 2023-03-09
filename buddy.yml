@@ -1,6 +1,4 @@
-- pipeline: nofdmdxlim
-  events:
-  - type: PUSH
-    refs:
-    - refs/heads/master
-    - rcjjfbeirg
+- pipeline: ereelkpetn
+  on: SCHEDULE
+  start_date: 2023-03-09T11:18:59Z
+  delay: 1
